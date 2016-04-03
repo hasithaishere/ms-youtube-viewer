@@ -15,7 +15,7 @@ $ npm i -g gulp
 ```
 
 ```sh
-$ git clone [git-repo-url]
+$ git clone https://github.com/hasithaishere/ms-youtube-viewer.git
 $ cd ms-youtube-viewer
 $ npm install
 $ npm start
