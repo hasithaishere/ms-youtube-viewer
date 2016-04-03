@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^2.0.6-beta",
+    "webpack-dev-server": "^2.0.0-beta"
+  },
+  "dependencies": {
+    "react": "^0.15.0-alpha.1",
+    "react-css-modules": "^3.7.4",
+    "react-dom": "^0.15.0-alpha.1"
+  }
+}
