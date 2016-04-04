@@ -1,8 +1,8 @@
 # YouTube Viewer
 
-This is the react component which is build for PMS Team. Main functionality of this when user paste or type the youtube URL in the URL input field, it automatically preview the relevant video. You can see it using following youtube video and imagine how it works.
+This is the react component which is build by Hasitha Prabhath Gamage. Main functionality of this when user paste or type the youtube URL in the URL input field, it automatically preview the relevant video. You can see it using following youtube video and imagine how it works.
 
-[![Click here to go youtube video](https://img.youtube.com/vi/N0tGpha4J3c/0.jpg)](https://www.youtube.com/watch?v=N0tGpha4J3c)
+[![Click here to go youtube video](https://img.youtube.com/vi/bts7rcjjKw0/0.jpg)](https://www.youtube.com/watch?v=bts7rcjjKw0)
 
 ### Version
 
